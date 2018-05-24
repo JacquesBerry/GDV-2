@@ -1,0 +1,8 @@
+﻿  gouraudshading.cpp
+c:\users\jacques\desktop\gdv\übung 2\gouraudshading.cpp(132): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\jacques\desktop\gdv\übung 2\gouraudshading.cpp(155): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  flatshading.cpp
+c:\users\jacques\desktop\gdv\übung 2\flatshading.cpp(81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\jacques\desktop\gdv\übung 2\flatshading.cpp(98): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  Code wird generiert...
+  uebung2.vcxproj -> C:\Users\Jacques\Desktop\gdv\Übung 2\.\Debug\uebung2.exe
